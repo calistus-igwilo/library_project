@@ -24,21 +24,6 @@ Library App is a modular C# solution designed to manage library operations such 
     - `UnitTests/`
       - `UnitTests.csproj`
       - `...`
-- `hello-world-console-app/`
-  - `README.md`
-  - `src/`
-    - `Program.cs`
-- `getting-started-with-github-copilot/`
-  - `README.md`
-  - `requirements.txt`
-  - `.devcontainer/`
-    - `devcontainer.json`
-  - `.vscode/`
-    - `launch.json`
-  - `src/`
-    - `app.py`
-    - `README.md`
-    - `static/`
 
 ## Key Classes and Interfaces
 
